@@ -26,7 +26,8 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.15",
+    "lodash.clonedeep": "^4.5.0"
   },
   "devDependencies": {
     "@case/eslint-config": "^0.1.4",
